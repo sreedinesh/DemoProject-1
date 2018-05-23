@@ -1,0 +1,12 @@
+{
+    "name": "DemoProject-1",
+    "description": "Get start with node red and a simple demo how to run and deploy Node-RED application",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
